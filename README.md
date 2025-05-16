@@ -2,7 +2,7 @@
 Izumi - Simple whatsapp Multi Device whatsapp bot.   
 ### SETUP
 1. [![Fork](https://img.shields.io/github/forks/Akshay-Eypz/izumi-bot?style=social)](https://github.com/Akshay-Eypz/izumi-bot/fork)
-2.  pair and copy it
+2. get session id
     <br>
 <a href='https://connect.eypz.infy.uk/' target="_blank"><img alt='SESSION' src='https://img.shields.io/badge/SESSION-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
@@ -48,7 +48,9 @@ Izumi - Simple whatsapp Multi Device whatsapp bot.
    cd izumi-bot
 4. Configuration
    ```
-   nono config.js
+   echo "SESSION_ID = izumi~enulefekap
+   PORT = 8000
+   TERMUX = true">config.env
 
    ```
    edit your details
@@ -61,7 +63,12 @@ Izumi - Simple whatsapp Multi Device whatsapp bot.
   ```
   pm2 delete izumi-bot
 
-  
+[![Tutorial](https://img.shields.io/badge/Tutorial-white?style=for-the-badge&logo=izumi&logoColor=white)](https://t.me/izumi_xddd)
 [![Join us on Telegram](https://img.shields.io/badge/Join_Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/izumi_support)
 
 <a href="https://whatsapp.com/channel/0029Vaf2tKvGZNCmuSg8ma2O"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Channel-white?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+
+
+## License
+
+This project is licensed under the [GNU General Public License v3.0](LICENSE).
